@@ -1,2 +1,0 @@
-﻿# Python Game Assessment
-Simple Formula 1 text game. See `game.py` to run.
