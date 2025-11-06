@@ -1,3 +1,0 @@
-﻿# Python Game Assessment
-Tic tac toe game in python. See `tictactoe.py` to run.
-
